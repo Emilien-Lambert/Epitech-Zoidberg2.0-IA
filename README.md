@@ -20,7 +20,11 @@ Several algorithms are used for this. The objective is to discover the different
 ## Datasets used
 
 ### Chest X-ray
-![](exemple-dataset.jpeg)
+<p align="center">
+<img src="./exemple-dataset.jpeg">
+</p>
 
 ### Mnist Digits
-![](Mnist.png)
+<p align="center">
+<img src="./Mnist.png">
+</p>
